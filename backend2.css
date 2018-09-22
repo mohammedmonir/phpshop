@@ -1,0 +1,283 @@
+body{
+    
+     
+    background-color: #bdc3c7;
+  
+    
+    
+    }
+   parent .childcat li :befor{
+        content: "-dfasdfasdf";
+
+    }
+    .img-profile{
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        margin-left: 14px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .img-circle{
+
+        border-radius: 50%;
+        width: 100px;
+        margin-left: 94px;
+        margin: 0;
+    }
+    .comment h1{
+
+        margin: 0
+    }
+    .comment2-box .com{
+        background: #fffefe;
+        padding: 10px;
+        margin-left: -94px;
+        margin-top: 20px;
+    }
+    .comment2-box .com:before{
+        content: "";
+        border-color: #bdc3c7 white #bdc3c7 #bdc3c7;
+        border-style: solid;
+        border-width: 10px;
+        height: 0px;
+        width: 0px;
+        position: absolute;
+        left: -99px;
+        
+         
+        background: red;
+
+
+
+
+    }
+
+
+
+    .comment form{
+        width: 400px;
+        margin: auto;
+        margin-top: 28px;
+        margin-left: 1px;
+    }
+    .infoul li{
+        padding:10px;
+    }
+
+     .infoul li:nth-child(odd){
+        background: #ececec;
+       
+    }
+    .infoul li:nth-child(even){
+        background: white;
+       
+    }
+    .infoul li span{
+        display: inline-block;
+        width:160px;
+    }
+    
+    form{
+    
+    width:400px;
+    margin: auto;
+    margin-top: 200px;
+    
+    }
+    form .m{
+        margin-bottom: 10px;
+        width:390px;
+        height:30px;
+    
+    
+    }
+/*بداية تنسيق صفحة dashpoard*/
+
+.box-mod{
+   
+
+}
+.user-com,.com{
+
+   display:inline-block; 
+   
+}
+.user-com{
+    background: #fff1f1;
+
+
+}
+.com{
+
+    background:#f7f7f7
+
+}
+.big{
+    margin-top: -156px;
+
+}
+.parent .child{
+    border:12px solid #bdc3c7;
+padding :30px;
+color: black;
+font-weight: bold;
+border-radius:25px;
+
+
+}
+
+.parent .child span{
+display :block;
+font-size:55px;
+
+}
+ .child1{
+
+background :#3498db;
+
+}
+.child2{
+    
+    background :#9b59b6;
+    
+    }
+ .child3{
+        
+   background :#e67e22;
+        
+  }
+.child4
+{
+            
+     background :#16a085;
+}
+.toggle-info i{
+    cursor: pointer;
+    }
+
+
+
+/* جزء عرض اخر 5 اسماء*/
+.latest-users{
+
+margin-bottom: 0px;
+
+
+
+}
+.latest-users li{
+
+ margin-bottom:10px;
+ padding :5px 0;
+
+
+
+}
+.latest-users li:nth-child(even){/*  لتنسيق ul الزوجي بلون مختلف في صفخة dashbord*/
+background-color:#eeedf1;
+
+
+
+}
+.latest-users li:nth-child(odd){
+    background-color:#FFFFFF;
+   
+
+    
+    }
+    .activate{
+        position: relative;
+        right:6px;
+
+
+    }
+  
+
+    .prof ul li:nth-child(odd){
+
+        background: #f5f4f4;
+    }
+
+   .formads input {
+
+    margin-bottom: 10px;
+   }
+
+.m1{
+    height: 238px;
+
+}
+    .pull-right {
+        float: right;
+        position: relative;
+        top: -6px;
+
+    }
+
+    .itembox span{
+        background: #d4d4d4;
+        position: absolute;
+        left: 15px;
+        top: 24px;
+        padding: 10px;
+        font-weight: bolder;
+
+    }
+    .upper span a{
+
+        float: right;
+        colot: re;
+        color: red;
+        padding: 10px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .log1{
+        cursor: pointer;
+
+    }
+     .login1{
+
+        
+        position: absolute;
+        left: 488px;
+        top: -11px;
+    }
+    .signup{
+
+        position: absolute;
+        left: 488px;
+        top: -11px;
+    }
+
+    .signup input{
+        width:350px;
+        margin-bottom: 10px
+      }
+      
+    
+.login1 input{
+  width:350px;
+  margin-bottom: 10px
+}
+.selected{
+color:red
+
+}
+h1 span{
+    color: #908989;
+}
+ [data-class="login1"].selected{
+    color :#337ab7;
+}
+
+[data-class="signup"].selected{
+    color :#5cb85c;
+}
+/*نهاية تنسيق صفحة dashpoard*/
+
+   .container span{
+font-size:20px
+
+   } 

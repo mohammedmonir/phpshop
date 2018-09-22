@@ -1,0 +1,141 @@
+
+body{
+background: #5dbec5;
+
+
+}
+.text-center{
+font-weight: bold;
+font-size:55px;
+
+
+}
+
+
+.margin{
+    
+    margin-bottom: 10px;
+    
+      }
+      .select{
+        position:relative;
+        top: 12px;
+        left: -25px;
+        color: red;
+
+
+      }
+
+.main-table tr:first-child td{
+
+background:black;
+color:white;
+
+
+
+}
+.m1 .m2{
+  width:50px;
+}
+
+.text-center{
+
+font-size:15px;
+
+}
+.navbar-default .navbar-brand{
+
+
+  color:white;
+}
+.navbar-default{
+background-color:black;
+
+}
+.navbar-default .navbar-nav>li>a
+{
+
+color:#fff;
+
+}
+.navbar-default .navbar-nav>li>a:hover{
+
+color:blue;
+
+}
+/*بداية صفحة الادارة*/
+div .cat{
+  background: #f9f9f9;
+  padding: 20px;
+  margin-left: -11px;
+  overflow: hidden;
+
+}
+.ordering .ord1:active{
+color:red;
+
+}
+
+div .cat .hidden-button{
+  -webkit-transition:all 0.5s ease-in-out;
+  -moz-transition:all 0.5s ease-in-out;
+  transition:all 0.5s ease-in-out;
+  float: right;
+  margin-right: -180px;
+
+
+
+}
+
+div .cat{
+  -webkit-transition:all 0.5s ease-in-out;
+  -moz-transition:all 0.5s ease-in-out;
+  transition:all 0.5s ease-in-out;
+
+}
+ div .cat h1{
+cursor: pointer;
+
+
+}
+
+div .cat:hover{
+  background-color:#d8d7d7;
+}
+div .cat:hover .hidden-button{
+
+  margin-right: 10px;
+
+
+  
+  }
+
+.vis{
+  
+  color: white;
+  background: red;
+ 
+  padding: 5px;
+
+  border-radius: 10px;
+  margin-right: 4px;
+
+}
+.comment{
+  color: white;
+  background: #976C6C;
+ 
+  padding: 5px;
+
+  border-radius: 10px;
+  margin-right: 4px;
+}
+.ads{  color: white;
+  background: #424DAF;
+ 
+  padding: 5px;
+
+  border-radius: 10px;
+  margin-right: 4px;
+
+}/*نهاية صفحة الادارة*/
